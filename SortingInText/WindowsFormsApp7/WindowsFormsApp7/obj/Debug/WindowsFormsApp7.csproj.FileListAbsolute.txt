@@ -1,0 +1,23 @@
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+X:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.AssemblyReference.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\hanahaki\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
