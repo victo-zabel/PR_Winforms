@@ -1,0 +1,57 @@
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame0.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame1.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame10.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame11.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame12.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame13.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame14.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame15.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame16.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame17.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame2.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame3.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame4.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame5.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame6.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame7.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame8.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame9.png
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame0.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame1.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame10.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame11.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame12.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame13.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame14.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame15.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame16.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame17.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame2.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame3.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame4.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame5.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame6.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame7.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame8.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\Frame9.png
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\hanahaki\Desktop\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
