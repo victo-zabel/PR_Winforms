@@ -1,0 +1,30 @@
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
