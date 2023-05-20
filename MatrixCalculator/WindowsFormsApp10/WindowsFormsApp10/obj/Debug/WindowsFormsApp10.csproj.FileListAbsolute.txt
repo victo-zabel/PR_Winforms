@@ -1,0 +1,60 @@
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+G:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+G:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+H:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\винформики\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\WinForms\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\WinForms\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\WinForms\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\WinForms\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\WinForms\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\WinForms\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\WinForms\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\WinForms\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+Z:\Общая для записи студентам\205 гр\чучарача хзт\приложушки\WinForms\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\hanahaki\Desktop\ИПЕК\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
