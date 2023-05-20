@@ -1,0 +1,11 @@
+C:\Users\hanahaki\Desktop\PR1_TextEditor\bin\Debug\PR1_TextEditor.exe.config
+C:\Users\hanahaki\Desktop\PR1_TextEditor\bin\Debug\PR1_TextEditor.exe
+C:\Users\hanahaki\Desktop\PR1_TextEditor\bin\Debug\PR1_TextEditor.pdb
+C:\Users\hanahaki\Desktop\PR1_TextEditor\obj\Debug\PR1_TextEditor.csproj.AssemblyReference.cache
+C:\Users\hanahaki\Desktop\PR1_TextEditor\obj\Debug\PR1_TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanahaki\Desktop\PR1_TextEditor\obj\Debug\PR1_TextEditor.Form1.resources
+C:\Users\hanahaki\Desktop\PR1_TextEditor\obj\Debug\PR1_TextEditor.Properties.Resources.resources
+C:\Users\hanahaki\Desktop\PR1_TextEditor\obj\Debug\PR1_TextEditor.csproj.GenerateResource.cache
+C:\Users\hanahaki\Desktop\PR1_TextEditor\obj\Debug\PR1_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\hanahaki\Desktop\PR1_TextEditor\obj\Debug\PR1_TextEditor.exe
+C:\Users\hanahaki\Desktop\PR1_TextEditor\obj\Debug\PR1_TextEditor.pdb
