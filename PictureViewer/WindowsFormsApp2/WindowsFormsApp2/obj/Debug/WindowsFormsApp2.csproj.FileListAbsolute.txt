@@ -1,0 +1,41 @@
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+X:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Z:\Общая для записи студентам\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+Z:\Общая для записи студентам\205 гр\205 VS\безрукова забелина\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\hanahaki\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
