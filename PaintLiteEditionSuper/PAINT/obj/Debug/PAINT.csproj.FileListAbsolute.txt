@@ -1,0 +1,36 @@
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\bin\Debug\PAINT.exe.config
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\bin\Debug\PAINT.exe
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\bin\Debug\PAINT.pdb
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\obj\Debug\PAINT.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\obj\Debug\PAINT.Form1.resources
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\obj\Debug\PAINT.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\obj\Debug\PAINT.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\obj\Debug\PAINT.exe
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\obj\Debug\PAINT.pdb
+Z:\Общая для записи студентам\205 гр\Катанов Астем,Мезрукова Бария класса Гиперборей\FORMS\PAINT\PAINT\obj\Debug\PAINT.Form2.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\bin\Debug\PAINT.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.pdb
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\bin\Debug\PAINT.exe.config
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\bin\Debug\PAINT.exe
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\bin\Debug\PAINT.pdb
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.csprojAssemblyReference.cache
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.Form1.resources
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.Form2.resources
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.Properties.Resources.resources
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.csproj.GenerateResource.cache
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.csproj.CoreCompileInputs.cache
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.exe
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\PAINT\PAINT\obj\Debug\PAINT.pdb
+C:\Users\hanahaki\Desktop\ПР8\PAINT\bin\Debug\PAINT.exe.config
+C:\Users\hanahaki\Desktop\ПР8\PAINT\bin\Debug\PAINT.exe
+C:\Users\hanahaki\Desktop\ПР8\PAINT\bin\Debug\PAINT.pdb
+C:\Users\hanahaki\Desktop\ПР8\PAINT\obj\Debug\PAINT.csproj.AssemblyReference.cache
+C:\Users\hanahaki\Desktop\ПР8\PAINT\obj\Debug\PAINT.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanahaki\Desktop\ПР8\PAINT\obj\Debug\PAINT.Form2.resources
+C:\Users\hanahaki\Desktop\ПР8\PAINT\obj\Debug\PAINT.Properties.Resources.resources
+C:\Users\hanahaki\Desktop\ПР8\PAINT\obj\Debug\PAINT.csproj.GenerateResource.cache
+C:\Users\hanahaki\Desktop\ПР8\PAINT\obj\Debug\PAINT.csproj.CoreCompileInputs.cache
+C:\Users\hanahaki\Desktop\ПР8\PAINT\obj\Debug\PAINT.exe
+C:\Users\hanahaki\Desktop\ПР8\PAINT\obj\Debug\PAINT.pdb
+C:\Users\hanahaki\Desktop\ПР8\PAINT\obj\Debug\PAINT.PaintLiteEditionSuper.resources
